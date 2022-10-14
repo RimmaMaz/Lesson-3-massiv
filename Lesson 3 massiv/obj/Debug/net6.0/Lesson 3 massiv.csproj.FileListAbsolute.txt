@@ -1,0 +1,15 @@
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\bin\Debug\net6.0\Lesson 3 massiv.exe
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\bin\Debug\net6.0\Lesson 3 massiv.deps.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\bin\Debug\net6.0\Lesson 3 massiv.runtimeconfig.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\bin\Debug\net6.0\Lesson 3 massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\bin\Debug\net6.0\Lesson 3 massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.csproj.AssemblyReference.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.AssemblyInfoInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.AssemblyInfo.cs
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.csproj.CoreCompileInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\refint\Lesson 3 massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\Lesson 3 massiv.genruntimeconfig.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\Lesson 3 massiv\obj\Debug\net6.0\ref\Lesson 3 massiv.dll
