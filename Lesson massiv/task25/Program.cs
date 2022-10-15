@@ -16,4 +16,3 @@ int a = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число ...");
 int b = int.Parse(Console.ReadLine()!);
 Console.Write(Getarray(a, b));
-
