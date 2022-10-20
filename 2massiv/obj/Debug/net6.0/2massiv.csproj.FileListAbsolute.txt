@@ -1,0 +1,15 @@
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\bin\Debug\net6.0\2massiv.exe
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\bin\Debug\net6.0\2massiv.deps.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\bin\Debug\net6.0\2massiv.runtimeconfig.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\bin\Debug\net6.0\2massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\bin\Debug\net6.0\2massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.csproj.AssemblyReference.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.AssemblyInfoInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.AssemblyInfo.cs
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.csproj.CoreCompileInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\refint\2massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\2massiv.genruntimeconfig.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\2massiv\obj\Debug\net6.0\ref\2massiv.dll
