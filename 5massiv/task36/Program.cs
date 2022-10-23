@@ -11,7 +11,7 @@ int[] Getarray(int size, int minValue, int maxValue)
     return array;
 }
 
-    int unevenSum(int[] array)
+    int unevenindexSum(int[] array)
     {
         int sum = 0;
         for (int i = 0; i < array.Length; i++)
@@ -30,11 +30,12 @@ int a = int.Parse(Console.ReadLine()!);
 
 int[] array = Getarray(a, -10, 10);
 
-unevenSum(array);
+unevenindexSum(array);
 
-Console.WriteLine($"Сумма нечетных чисел равна {unevenSum(array)}");
+Console.WriteLine($"Сумма нечетных чисел равна {unevenindexSum(array)}");
 
 Console.WriteLine(string.Join(" ", array));
+
 
 
 
