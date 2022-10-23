@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Римма\\Desktop\\АНАЛИТИКА\\Массивы и функции\\2massiv\\task10\\task10.csproj",
+      "projectUniqueName": "C:\\Users\\Римма\\Desktop\\АНАЛИТИКА\\Массивы и функции\\LessonMASSIV\\2massiv\\task10\\task10.csproj",
       "projectName": "task10",
-      "projectPath": "C:\\Users\\Римма\\Desktop\\АНАЛИТИКА\\Массивы и функции\\2massiv\\task10\\task10.csproj",
+      "projectPath": "C:\\Users\\Римма\\Desktop\\АНАЛИТИКА\\Массивы и функции\\LessonMASSIV\\2massiv\\task10\\task10.csproj",
       "packagesPath": "C:\\Users\\Римма\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Римма\\Desktop\\АНАЛИТИКА\\Массивы и функции\\2massiv\\task10\\obj\\",
+      "outputPath": "C:\\Users\\Римма\\Desktop\\АНАЛИТИКА\\Массивы и функции\\LessonMASSIV\\2massiv\\task10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Римма\\AppData\\Roaming\\NuGet\\NuGet.Config"
