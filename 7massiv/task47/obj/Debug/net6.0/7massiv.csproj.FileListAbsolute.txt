@@ -1,0 +1,15 @@
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\bin\Debug\net6.0\7massiv.exe
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\bin\Debug\net6.0\7massiv.deps.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\bin\Debug\net6.0\7massiv.runtimeconfig.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\bin\Debug\net6.0\7massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\bin\Debug\net6.0\7massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.csproj.AssemblyReference.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.AssemblyInfoInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.AssemblyInfo.cs
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.csproj.CoreCompileInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\refint\7massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\7massiv.genruntimeconfig.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\7massiv\task47\obj\Debug\net6.0\ref\7massiv.dll
