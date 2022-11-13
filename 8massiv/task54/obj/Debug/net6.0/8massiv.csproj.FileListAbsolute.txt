@@ -1,0 +1,15 @@
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.csproj.AssemblyReference.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.AssemblyInfoInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.AssemblyInfo.cs
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.csproj.CoreCompileInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\bin\Debug\net6.0\8massiv.exe
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\bin\Debug\net6.0\8massiv.deps.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\bin\Debug\net6.0\8massiv.runtimeconfig.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\bin\Debug\net6.0\8massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\bin\Debug\net6.0\8massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\refint\8massiv.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\8massiv.genruntimeconfig.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task54\obj\Debug\net6.0\ref\8massiv.dll
