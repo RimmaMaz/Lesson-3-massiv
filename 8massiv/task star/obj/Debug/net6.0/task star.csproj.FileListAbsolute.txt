@@ -1,0 +1,15 @@
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\bin\Debug\net6.0\task star.exe
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\bin\Debug\net6.0\task star.deps.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\bin\Debug\net6.0\task star.runtimeconfig.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\bin\Debug\net6.0\task star.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\bin\Debug\net6.0\task star.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.csproj.AssemblyReference.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.AssemblyInfoInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.AssemblyInfo.cs
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.csproj.CoreCompileInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\refint\task star.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\task star.genruntimeconfig.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\Массивы и функции\LessonMASSIV\8massiv\task star\obj\Debug\net6.0\ref\task star.dll
